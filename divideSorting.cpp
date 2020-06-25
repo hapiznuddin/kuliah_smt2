@@ -1,4 +1,5 @@
-#include<iostream>
+#include <iostream>
+#include <conio.h>
 
 using namespace std;
 void tukar(int &a, int &b) 
