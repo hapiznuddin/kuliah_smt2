@@ -29,11 +29,18 @@ int main()
 {
     int a;
     int n;
+    cout <<"      Pemangkatan      \n";
+    cout <<"=======================\n";
     cout <<"Masukkan Angka : "; cin >>a;
     cout <<endl;
     cout <<"Masukkan Pangkat : "; cin >>n;
     cout <<endl;
     cout <<"Hasil " <<a <<" pangkat " <<n <<" = " <<pangkat(a, n) <<endl;
     cout <<endl;
+
+    cout <<"Hapiz Nuddin Setiadi \n";
+    cout <<"20190801364 \n\n";
+
+    system("pause");
     return 0;
 }
