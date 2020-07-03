@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int pangkat(int a, int n)
+long long pangkat(int a, int n)
 {
     if (n == 0)
     {
